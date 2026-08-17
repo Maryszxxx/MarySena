@@ -8,7 +8,7 @@
 
 ---
 
-## 🤖 MARIA BACKEND CORE
+## 🤖 MARIA BACKEND CORE 
 
 ```text
 ╭────────────────────────────╮
