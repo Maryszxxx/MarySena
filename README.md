@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFBFF1,50:D8A4E8,100:9B5DE5&text=MARIA%20EDUARDA%20SENA%20NUNES&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFBFF1,50:FFCFF5,100:FFBFF4&text=MARIA%20EDUARDA%20SENA%20NUNES&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;BACKEND+DEVELOPER;GO+%7C+POSTGRESQL+%7C+DOCKER;AWS+%7C+MICROSERVICES+%7C+gRPC;WELCOME+TO+MY+CODE+UNIVERSE" alt="Typing SVG" />
