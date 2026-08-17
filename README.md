@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FFBFF1&text=MARIA%20EDUARDA%20SENA%20NUNES&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FFBFF1&text=MARIA%20EDUARDA%20SENA&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
